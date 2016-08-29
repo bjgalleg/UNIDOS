@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UNIDOSGENESIS
+</name>
+</assembly>
+<members>
+<member name="T:UNIDOSGENESIS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UNIDOSGENESIS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UNIDOSGENESIS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.CATEGORIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.DEPARTAMENTO_MOVIMIENTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.DEPARTAMENTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.MOVIMIENTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PERSONA_DEPARTAMENTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PERSONASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PRODUCTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PROYECTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.CATEGORIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.DEPARTAMENTO_MOVIMIENTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.DEPARTAMENTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.MOVIMIENTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PERSONA_DEPARTAMENTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PERSONASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PRODUCTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PROYECTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.CATEGORIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.DEPARTAMENTO_MOVIMIENTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.DEPARTAMENTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.MOVIMIENTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PERSONA_DEPARTAMENTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PERSONASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PRODUCTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet.PROYECTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.CATEGORIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.DEPARTAMENTO_MOVIMIENTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.DEPARTAMENTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.MOVIMIENTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.PERSONA_DEPARTAMENTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.PERSONASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.PRODUCTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.PROYECTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(UNIDOSGENESIS.UNIDOSBGDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(UNIDOSGENESIS.UNIDOSBGDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(UNIDOSGENESIS.UNIDOSBGDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.UpdateAll(UNIDOSGENESIS.UNIDOSBGDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1.PROYECTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1.PROYECTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1.PROYECTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.PROYECTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(UNIDOSGENESIS.UNIDOSBGDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(UNIDOSGENESIS.UNIDOSBGDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(UNIDOSGENESIS.UNIDOSBGDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.UpdateAll(UNIDOSGENESIS.UNIDOSBGDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2.PROYECTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2.PROYECTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2.PROYECTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.PROYECTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(UNIDOSGENESIS.UNIDOSBGDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(UNIDOSGENESIS.UNIDOSBGDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(UNIDOSGENESIS.UNIDOSBGDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.UpdateAll(UNIDOSGENESIS.UNIDOSBGDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:UNIDOSGENESIS.UNIDOSBGDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

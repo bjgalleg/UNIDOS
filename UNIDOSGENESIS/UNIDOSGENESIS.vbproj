@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5163B320-DD23-4530-8284-24E7A68A6628}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>UNIDOSGENESIS.My.MyApplication</StartupObject>
+    <RootNamespace>UNIDOSGENESIS</RootNamespace>
+    <AssemblyName>UNIDOSGENESIS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>UNIDOSGENESIS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>UNIDOSGENESIS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Eliminar Personas.Designer.vb">
+      <DependentUpon>Eliminar Personas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar Personas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar Proyecto.Designer.vb">
+      <DependentUpon>Eliminar Proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar Proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar_Departamento.Designer.vb">
+      <DependentUpon>Eliminar_Departamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_Departamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entrada-Salida.Designer.vb">
+      <DependentUpon>Entrada-Salida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entrada-Salida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresar Persona.Designer.vb">
+      <DependentUpon>Ingresar Persona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresar Persona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.vb">
+      <DependentUpon>Inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGINUNIDOS.Designer.vb">
+      <DependentUpon>LOGINUNIDOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LOGINUNIDOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Departamento.Designer.vb">
+      <DependentUpon>Menu Departamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Departamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Personas.Designer.vb">
+      <DependentUpon>Menu Personas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Personas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Proyectos.Designer.vb">
+      <DependentUpon>Menu Proyectos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Proyectos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menua.Designer.vb">
+      <DependentUpon>menua.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menua.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuv.Designer.vb">
+      <DependentUpon>menuv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar datosde persona.Designer.vb">
+      <DependentUpon>Modificar datosde persona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar datosde persona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar Departamento.Designer.vb">
+      <DependentUpon>Modificar Departamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar Departamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar Proyecto.Designer.vb">
+      <DependentUpon>Modificar Proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar Proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos.Designer.vb">
+      <DependentUpon>Movimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Nuevo Departamento.Designer.vb">
+      <DependentUpon>Nuevo Departamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nuevo Departamento.vb" />
+    <Compile Include="Nuevo Proyecto.Designer.vb">
+      <DependentUpon>Nuevo Proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nuevo Proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UNIDOSBGDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UNIDOSBGDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UNIDOSBGDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UNIDOSBGDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UNIDOSBGDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UNIDOSBGDataSet2.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Eliminar Personas.resx">
+      <DependentUpon>Eliminar Personas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar Proyecto.resx">
+      <DependentUpon>Eliminar Proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar_Departamento.resx">
+      <DependentUpon>Eliminar_Departamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entrada-Salida.resx">
+      <DependentUpon>Entrada-Salida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresar Persona.resx">
+      <DependentUpon>Ingresar Persona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGINUNIDOS.resx">
+      <DependentUpon>LOGINUNIDOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Departamento.resx">
+      <DependentUpon>Menu Departamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Personas.resx">
+      <DependentUpon>Menu Personas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Proyectos.resx">
+      <DependentUpon>Menu Proyectos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menua.resx">
+      <DependentUpon>menua.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuv.resx">
+      <DependentUpon>menuv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar datosde persona.resx">
+      <DependentUpon>Modificar datosde persona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar Departamento.resx">
+      <DependentUpon>Modificar Departamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar Proyecto.resx">
+      <DependentUpon>Modificar Proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos.resx">
+      <DependentUpon>Movimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nuevo Departamento.resx">
+      <DependentUpon>Nuevo Departamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nuevo Proyecto.resx">
+      <DependentUpon>Nuevo Proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="UNIDOSBGDataSet.xsc">
+      <DependentUpon>UNIDOSBGDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UNIDOSBGDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UNIDOSBGDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UNIDOSBGDataSet.xss">
+      <DependentUpon>UNIDOSBGDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UNIDOSBGDataSet1.xsc">
+      <DependentUpon>UNIDOSBGDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="UNIDOSBGDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UNIDOSBGDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UNIDOSBGDataSet1.xss">
+      <DependentUpon>UNIDOSBGDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="UNIDOSBGDataSet2.xsc">
+      <DependentUpon>UNIDOSBGDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="UNIDOSBGDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UNIDOSBGDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UNIDOSBGDataSet2.xss">
+      <DependentUpon>UNIDOSBGDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

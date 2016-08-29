@@ -1,0 +1,82 @@
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe.config
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Personas.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Proyecto.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.login.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Resources.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbproj.GenerateResource.Cache
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.xml
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.pdb
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.xml
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.exe
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.pdb
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Finanzas.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Ingresar_Persona.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Departamento.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Personas.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Proyectos.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.menua.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_datosde_persona.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_Proyecto.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Departamento.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Proyecto.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Registro.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Ventas.resources
+E:\Visual Studio 2015\VB\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Movimientos.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe.config
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.exe
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.xml
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.pdb
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.pdb
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.xml
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Personas.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Proyecto.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Ingresar_Persona.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Departamento.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Personas.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Proyectos.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.menua.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_datosde_persona.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_Proyecto.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Movimientos.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Resources.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Departamento.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Proyecto.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.LOGINUNIDOS.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.menuv.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Departamento.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_Departamento.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Inventario.resources
+C:\Users\Jonathan\Desktop\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Entrada_Salida.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe.config
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.exe
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.xml
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.pdb
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.pdb
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.xml
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Personas.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Proyecto.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Eliminar_Departamento.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Entrada_Salida.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Ingresar_Persona.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Inventario.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.LOGINUNIDOS.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Departamento.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Personas.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Menu_Proyectos.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.menua.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.menuv.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_datosde_persona.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_Departamento.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Modificar_Proyecto.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Movimientos.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Resources.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Proyecto.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo Departamento.resources
