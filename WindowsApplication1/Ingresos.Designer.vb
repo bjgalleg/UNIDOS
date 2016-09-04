@@ -1,0 +1,203 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class Form5
+    Inherits System.Windows.Forms.Form
+
+    'Form reemplaza a Dispose para limpiar la lista de componentes.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Requerido por el Diseñador de Windows Forms
+    Private components As System.ComponentModel.IContainer
+
+    'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
+    'Se puede modificar usando el Diseñador de Windows Forms.  
+    'No lo modifique con el editor de código.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.txtsubtipo = New System.Windows.Forms.ComboBox()
+        Me.txtproyecto = New System.Windows.Forms.ComboBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtdetalle = New System.Windows.Forms.TextBox()
+        Me.txtmonto = New System.Windows.Forms.TextBox()
+        Me.fecha = New System.Windows.Forms.DateTimePicker()
+        Me.txttipo = New System.Windows.Forms.TextBox()
+        Me.btnguardar = New System.Windows.Forms.Button()
+        Me.btnvolver = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'txtsubtipo
+        '
+        Me.txtsubtipo.FormattingEnabled = True
+        Me.txtsubtipo.Items.AddRange(New Object() {"Donaciones directas", "Patrocinios", "Compromisos", "Venta"})
+        Me.txtsubtipo.Location = New System.Drawing.Point(188, 97)
+        Me.txtsubtipo.Name = "txtsubtipo"
+        Me.txtsubtipo.Size = New System.Drawing.Size(121, 21)
+        Me.txtsubtipo.TabIndex = 1
+        '
+        'txtproyecto
+        '
+        Me.txtproyecto.FormattingEnabled = True
+        Me.txtproyecto.Location = New System.Drawing.Point(188, 126)
+        Me.txtproyecto.Name = "txtproyecto"
+        Me.txtproyecto.Size = New System.Drawing.Size(121, 21)
+        Me.txtproyecto.TabIndex = 2
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(97, 70)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(28, 13)
+        Me.Label1.TabIndex = 3
+        Me.Label1.Text = "Tipo"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(97, 97)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(43, 13)
+        Me.Label2.TabIndex = 4
+        Me.Label2.Text = "Subtipo"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(97, 126)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(60, 13)
+        Me.Label3.TabIndex = 5
+        Me.Label3.Text = "ProyectoID"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(97, 162)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(37, 13)
+        Me.Label4.TabIndex = 6
+        Me.Label4.Text = "Fecha"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(97, 191)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(37, 13)
+        Me.Label5.TabIndex = 7
+        Me.Label5.Text = "Monto"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(97, 221)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(40, 13)
+        Me.Label6.TabIndex = 8
+        Me.Label6.Text = "Detalle"
+        '
+        'txtdetalle
+        '
+        Me.txtdetalle.Location = New System.Drawing.Point(188, 221)
+        Me.txtdetalle.Name = "txtdetalle"
+        Me.txtdetalle.Size = New System.Drawing.Size(100, 20)
+        Me.txtdetalle.TabIndex = 9
+        '
+        'txtmonto
+        '
+        Me.txtmonto.Location = New System.Drawing.Point(188, 191)
+        Me.txtmonto.Name = "txtmonto"
+        Me.txtmonto.Size = New System.Drawing.Size(100, 20)
+        Me.txtmonto.TabIndex = 10
+        '
+        'fecha
+        '
+        Me.fecha.Location = New System.Drawing.Point(188, 154)
+        Me.fecha.Name = "fecha"
+        Me.fecha.Size = New System.Drawing.Size(200, 20)
+        Me.fecha.TabIndex = 11
+        '
+        'txttipo
+        '
+        Me.txttipo.Location = New System.Drawing.Point(188, 67)
+        Me.txttipo.Name = "txttipo"
+        Me.txttipo.Size = New System.Drawing.Size(100, 20)
+        Me.txttipo.TabIndex = 12
+        Me.txttipo.Text = "Ingreso"
+        '
+        'btnguardar
+        '
+        Me.btnguardar.BackColor = System.Drawing.Color.DarkOrchid
+        Me.btnguardar.Font = New System.Drawing.Font("Cooper Black", 11.0!)
+        Me.btnguardar.Location = New System.Drawing.Point(89, 281)
+        Me.btnguardar.Name = "btnguardar"
+        Me.btnguardar.Size = New System.Drawing.Size(99, 23)
+        Me.btnguardar.TabIndex = 141
+        Me.btnguardar.Text = "Guardar"
+        Me.btnguardar.UseVisualStyleBackColor = False
+        '
+        'btnvolver
+        '
+        Me.btnvolver.BackColor = System.Drawing.Color.DarkOrchid
+        Me.btnvolver.Font = New System.Drawing.Font("Cooper Black", 11.0!)
+        Me.btnvolver.Location = New System.Drawing.Point(194, 281)
+        Me.btnvolver.Name = "btnvolver"
+        Me.btnvolver.Size = New System.Drawing.Size(103, 23)
+        Me.btnvolver.TabIndex = 140
+        Me.btnvolver.Text = "Volver"
+        Me.btnvolver.UseVisualStyleBackColor = False
+        '
+        'Form5
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(428, 404)
+        Me.Controls.Add(Me.btnguardar)
+        Me.Controls.Add(Me.btnvolver)
+        Me.Controls.Add(Me.txttipo)
+        Me.Controls.Add(Me.fecha)
+        Me.Controls.Add(Me.txtmonto)
+        Me.Controls.Add(Me.txtdetalle)
+        Me.Controls.Add(Me.Label6)
+        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.txtproyecto)
+        Me.Controls.Add(Me.txtsubtipo)
+        Me.Name = "Form5"
+        Me.Text = "Ingresos"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+
+    Friend WithEvents txtsubtipo As ComboBox
+    Friend WithEvents txtproyecto As ComboBox
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Label3 As Label
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label5 As Label
+    Friend WithEvents Label6 As Label
+    Friend WithEvents txtdetalle As TextBox
+    Friend WithEvents txtmonto As TextBox
+    Friend WithEvents fecha As DateTimePicker
+    Friend WithEvents txttipo As TextBox
+    Friend WithEvents btnguardar As Button
+    Friend WithEvents btnvolver As Button
+End Class

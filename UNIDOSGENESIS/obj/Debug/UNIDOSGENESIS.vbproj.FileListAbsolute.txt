@@ -80,3 +80,7 @@ C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS
 C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo_Proyecto.resources
 C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.vbproj.GenerateResource.Cache
 C:\Users\HP\Desktop\Proyecto\UNIDOSGENESIS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.Nuevo Departamento.resources
+C:\Users\HP\Desktop\Proyecto\UNIDOS\UNIDOSGENESIS\bin\Debug\UNIDOSGENESIS.exe.config
+C:\Users\HP\Desktop\Proyecto\UNIDOS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.exe
+C:\Users\HP\Desktop\Proyecto\UNIDOS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.xml
+C:\Users\HP\Desktop\Proyecto\UNIDOS\UNIDOSGENESIS\obj\Debug\UNIDOSGENESIS.pdb
